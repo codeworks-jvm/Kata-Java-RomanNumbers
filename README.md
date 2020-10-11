@@ -19,9 +19,9 @@ Examples :
 In the `src/main/java` folder, you will find the class `App` with the function ready to be implemented.
 
 ## Test it
-You can use `mvn test` to test your code. If all tests pass, you can go to the next rule !
+You can use `mvn test` to test your code.
 
-But first install the dependencies with `mvn clean install -DskipTests`. Thanks.
+First install the dependencies with `mvn clean install -DskipTests`. Thanks.
 
 ## Optimisation & clean code
 Find the optimal form. Keep your code as clean as possible (easy to read, understandable ...).
